@@ -1,5 +1,0 @@
-https://github.com/CreateJS/EaselJS
-
-gskinner.com
-
-http://www.opensource.org/licenses/mit-license.php
